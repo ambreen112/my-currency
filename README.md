@@ -1,2 +1,1 @@
-# my-currency
-my currency converter
+"# smart-calculator" 
